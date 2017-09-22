@@ -1,0 +1,5 @@
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Bai_3\bin\Debug\Bai_3.exe
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Bai_3\bin\Debug\Bai_3.pdb
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Bai_3\obj\Debug\Bai_3.exe
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Bai_3\obj\Debug\Bai_3.pdb
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Bai_3\obj\Debug\Bai_3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Ham\bin\Debug\Ham.exe
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Ham\bin\Debug\Ham.pdb
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Ham\obj\Debug\Ham.exe
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Ham\obj\Debug\Ham.pdb
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Ham\obj\Debug\Ham.csprojResolveAssemblyReference.cache

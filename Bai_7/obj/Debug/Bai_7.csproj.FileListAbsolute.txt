@@ -1,0 +1,5 @@
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Bai_7\bin\Debug\Bai_7.exe
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Bai_7\bin\Debug\Bai_7.pdb
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Bai_7\obj\Debug\Bai_7.csprojResolveAssemblyReference.cache
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Bai_7\obj\Debug\Bai_7.exe
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Bai_7\obj\Debug\Bai_7.pdb

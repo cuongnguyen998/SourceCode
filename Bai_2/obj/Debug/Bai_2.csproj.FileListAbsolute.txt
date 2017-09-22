@@ -1,0 +1,4 @@
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Bai_2\bin\Debug\Bai_2.exe
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Bai_2\bin\Debug\Bai_2.pdb
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Bai_2\obj\Debug\Bai_2.exe
+D:\lap trinh\C#\CHUONG TRINH\Co Le\Bai_2\obj\Debug\Bai_2.pdb
